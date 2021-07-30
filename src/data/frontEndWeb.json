@@ -1,0 +1,22 @@
+[
+            {   
+                "name":"JavaScript",
+                "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/js_d0rtac.png",
+                "info":"JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+            },
+            {
+                "name":"Elm",
+                "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,w_800/v1627610677/intro-pl-images/elm_cwplex.png",
+                "info":"Elm is a front-end language with an extremely helpful compiler that allows programmers to write scalable, reliable, easy-to-maintain code. Most of the time developers use programming languages with huge communities, looking for support over precision of effort. There’s some sense in wanting to avoid being the first to avoid discovering a bug in a tool. However, sometimes lesser-known languages have something to offer than their better-established cousins can’t. One of these, Elm, is attracting interest even among fans of more proven tools. It’s a lightweight language with a narrow focus but impressive results."
+            },
+            {
+                "name":"TypeScript",
+                "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,w_800/v1627610676/intro-pl-images/typescript_j77mgk.png",
+                "info":"TypeScript is a strongly typed, object oriented, compiled language. It was designed by Anders Hejlsberg (designer of C#) at Microsoft. TypeScript is both a language and a set of tools. TypeScript is a typed superset of JavaScript compiled to JavaScript. In other words, TypeScript is JavaScript plus some additional features."
+            }
+]
+            
+
+    
+    
+    

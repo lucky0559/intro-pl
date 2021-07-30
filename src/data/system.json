@@ -1,0 +1,12 @@
+[
+        {
+            "name":"Go",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610676/intro-pl-images/go_o1cuf0.png",
+            "info":"Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language."
+        },
+        {
+            "name":"Rust",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610676/intro-pl-images/rust_fjluel.png",
+            "info":"Rust is proving to be a productive tool for collaborating among large teams of developers with varying levels of systems programming knowledge. Low-level code is prone to a variety of subtle bugs, which in most other languages can be caught only through extensive testing and careful code review by experienced developers. In Rust, the compiler plays a gatekeeper role by refusing to compile code with these elusive bugs, including concurrency bugs. By working alongside the compiler, the team can spend their time focusing on the program’s logic rather than chasing down bugs."
+        }
+]

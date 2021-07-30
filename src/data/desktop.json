@@ -1,0 +1,17 @@
+[
+        {
+            "name":"Scala",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627615529/intro-pl-images/scala_yb0deh.png",
+            "info":"Scala combines object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries."
+        },
+        {
+            "name":"Go",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610676/intro-pl-images/go_o1cuf0.png",
+            "info":"Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language."
+        },
+        {
+            "name":"Python",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610254/intro-pl-images/python_xljwhw.png",
+            "info":"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed."
+        }
+]

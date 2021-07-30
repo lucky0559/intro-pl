@@ -1,0 +1,17 @@
+[
+        {
+            "name":"Swift",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627617554/intro-pl-images/swift_lojsbs.png",
+            "info":"Swift is a fast and efficient language that provides real-time feedback and can be seamlessly incorporated into existing Objective-C code. So developers are able to write safer, more reliable code, save time, and create even richer app experiences."
+        },
+        {
+            "name":"Java",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610254/intro-pl-images/java_zlaiyt.png",
+            "info":"Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable. From laptops to datacenters, game consoles to scientific supercomputers, cell phones to the Internet, Java is everywhere!"
+        },
+        {
+            "name":"JavaScript",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/js_d0rtac.png",
+            "info":"JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+        }
+]

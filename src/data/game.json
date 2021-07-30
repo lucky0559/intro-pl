@@ -1,0 +1,12 @@
+[
+        {
+            "name":"Unity",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610676/intro-pl-images/unity_gbcm79.png",
+            "info":"As a game engine, Unity is able to provide many of the most important built-in features that make a game work. That means things like physics, 3D rendering, and collision detection. From a developer’s perspective, this means that there is no need to reinvent the wheel. Rather than starting a new project by creating a new physics engine from scratch–calculating every last movement of each material, or the way light should bounce off of different surfaces."
+        },
+        {
+            "name":"TypeScript",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610676/intro-pl-images/typescript_j77mgk.png",
+            "info":"TypeScript is a strongly typed, object oriented, compiled language. It was designed by Anders Hejlsberg (designer of C#) at Microsoft. TypeScript is both a language and a set of tools. TypeScript is a typed superset of JavaScript compiled to JavaScript. In other words, TypeScript is JavaScript plus some additional features."
+        }
+]

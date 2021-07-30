@@ -1,0 +1,28 @@
+[
+        {
+            "name":"JavaScript",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/js_d0rtac.png",
+            "info":"JavaScript is a scripting or programming language that allows you to implement complex features on web pages — every time a web page does more than just sit there and display static information for you to look at — displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc. — you can bet that JavaScript is probably involved. It is the third layer of the layer cake of standard web technologies, two of which (HTML and CSS) we have covered in much more detail in other parts of the Learning Area."
+            
+        },
+        {
+            "name":"Scala",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627615529/intro-pl-images/scala_yb0deh.png",
+            "info":"Scala combines object-oriented and functional programming in one concise, high-level language. Scala's static types help avoid bugs in complex applications, and its JVM and JavaScript runtimes let you build high-performance systems with easy access to huge ecosystems of libraries."
+        },
+        {
+            "name":"Python",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610254/intro-pl-images/python_xljwhw.png",
+            "info":"Python is an interpreted, object-oriented, high-level programming language with dynamic semantics. Its high-level built in data structures, combined with dynamic typing and dynamic binding, make it very attractive for Rapid Application Development, as well as for use as a scripting or glue language to connect existing components together. Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance. Python supports modules and packages, which encourages program modularity and code reuse. The Python interpreter and the extensive standard library are available in source or binary form without charge for all major platforms, and can be freely distributed."
+        },
+        {
+            "name":"Go",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610676/intro-pl-images/go_o1cuf0.png",
+            "info":"Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make it easy to write programs that get the most out of multicore and networked machines, while its novel type system enables flexible and modular program construction. Go compiles quickly to machine code yet has the convenience of garbage collection and the power of run-time reflection. It's a fast, statically typed, compiled language that feels like a dynamically typed, interpreted language."
+        },
+        {
+            "name":"Ruby",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627616059/intro-pl-images/ruby_auliwa.png",
+            "info":"Ruby is an open source, interpreted, object-oriented programming language created by Yukihiro Matsumoto, who chose the gemstone's name to suggest a jewel of a language. Ruby is designed to be simple, complete, extensible, and portable. Developed mostly on Linux, Ruby works across most platforms, such as most UNIX-based platforms, DOS, Windows, MacIntosh, BeOS and OS/2, for example. According to proponents, Ruby's simple syntax (partially inspired by Ada and Eiffel), makes it readable by anyone who is familiar with any modern programming language."
+        }
+]

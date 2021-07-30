@@ -1,0 +1,88 @@
+[
+        {
+            "name":"MongoDB",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627618695/intro-pl-images/mongo_so7mtg.png",
+            "info":"MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. MongoDB’s document model is simple for developers to learn and use, while still providing all the capabilities needed to meet the most complex requirements at any scale. We provide drivers for 10+ languages, and the community has built dozens more."
+        },
+        {
+            "name":"PHP",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610254/intro-pl-images/php_wgun6f.png",
+            "info":"PHP is a server side scripting language. that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages.PHP scripts can only be interpreted on a server that has PHP installed. The client computers accessing the PHP scripts require a web browser only."
+        },
+        {
+            "name":"Xamarin",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610254/intro-pl-images/xamarin_ztuwqp.png",
+            "info":"Xamarin extends the .NET platform with tools and libraries specifically for building apps on iOS, Android, macOS, and more."
+        },
+        {
+            "name":"React",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610254/intro-pl-images/react_hl8s3n.png",
+            "info":"React.js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It’s used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components. React was first created by Jordan Walke, a software engineer working for Facebook. React first deployed on Facebook’s newsfeed in 2011 and on Instagram.com in 2012."
+        },
+        {
+            "name":"C",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610254/intro-pl-images/c_nfsmhf.png",
+            "info":"C is a general-purpose programming language that is extremely popular, simple, and flexible to use. It is a structured programming language that is machine-independent and extensively used to write various applications, Operating Systems like Windows, and many other complex programs like Oracle database, Git, Python interpreter, and more."
+        },
+        {
+            "name":"C#",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/c_qzbvnd.png",
+            "info":"C# (pronounced 'See Sharp') is a modern, object-oriented, and type-safe programming language. C# enables developers to build many types of secure and robust applications that run in the .NET ecosystem. C# has its roots in the C family of languages and will be immediately familiar to C, C++, Java, and JavaScript programmers. This tour provides an overview of the major components of the language in C# 8 and earlier. If you want to explore the language through interactive examples, try the introduction to C# tutorials."
+        },
+        {
+            "name":"MySQL",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/c_scale,h_800,w_800/v1627610253/intro-pl-images/mysql_rb1pzd.png",
+            "info":"MySQL is a relational database management system based on SQL – Structured Query Language. The application is used for a wide range of purposes, including data warehousing, e-commerce, and logging applications. The most common use for mySQL however, is for the purpose of a web database."
+        },
+        {
+            "name":"Kotlin",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/kotlin_lbrqvw.png",
+            "info":"Kotlin is an open-source statically typed programming language that targets the JVM, Android, JavaScript and Native. It’s developed by JetBrains. The project started in 2010 and was open source from very early on. The first official 1.0 release was in February 2016."
+        },
+        {
+            "name":"Node.JS",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/node_c21gzd.png",
+            "info":"Node. js is a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications. Node. js uses an event-driven, non-blocking I/O model that makes it lightweight and efficient, perfect for data-intensive real-time applications that run across distributed devices."
+        },
+        {
+            "name":"C++",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/c_dfnfpz.png",
+            "info":"C++ is a cross-platform language that can be used to create high-performance applications. C++ was developed by Bjarne Stroustrup, as an extension to the C language. C++ gives programmers a high level of control over system resources and memory."
+        },
+        {
+            "name":"CSS 3",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/css_goda8o.png",
+            "info":"Cascading Style Sheets Level 3 (CSS3) is the iteration of the CSS standard used in the styling and formatting of Web pages. CSS3 incorporates the CSS2 standard with some changes and improvements. A key change is the division of standard into separate modules, which makes it easier to learn and understand."
+        },
+        {
+            "name":"HTML 5",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/html5_pf4jjz.png",
+            "info":"HTML5 is a programming language whose acronym stands for Hyper Text Markup Language. It is a system that allows the modification of the appearance of web pages, as well as making adjustments to their appearance. It also used to structure and present content for the web."
+        },
+        {
+            "name":"Git",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627610253/intro-pl-images/git_qo2clp.png",
+            "info":"Git is the most commonly used version control system. Git tracks the changes you make to files, so you have a record of what has been done, and you can revert to specific versions should you ever need to. Git also makes collaboration easier, allowing changes by multiple people to all be merged into one source."
+        },
+        {
+            "name":"Bash",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627573474/intro-pl-images/bash_mgeppb.png",
+            "info":"Bash (also known as the “Bourne Again SHell”) is an implementation of Shell and allows you to efficiently perform many tasks. For example, you can use Bash to perform operations on multiple files quickly via the command line."
+        },
+        {
+            "name":".net",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627573474/intro-pl-images/.net_ghfcuh.png",
+            "info":"NET is a free, cross-platform, open source developer platform for building many different types of applications. With . NET, you can use multiple languages, editors, and libraries to build for web, mobile, desktop, games, and IoT."
+        },
+        {
+            "name":"Android",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627573474/intro-pl-images/android_cye9ec.png",
+            "info":"Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008."
+        },
+        {
+            "name":"Angular",
+            "image_url":"https://res.cloudinary.com/intro-pl/image/upload/v1627573474/intro-pl-images/angularjs_uwghvb.png",
+            "info":"Angular is a platform and framework for building single-page client applications using HTML and TypeScript. Angular is written in TypeScript. It implements core and optional functionality as a set of TypeScript libraries that you import into your applications."
+        }
+        
+]
