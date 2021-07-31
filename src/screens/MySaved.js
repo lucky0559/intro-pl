@@ -7,6 +7,7 @@ Text,
 TouchableOpacity,
 Image,
 Button,
+ActivityIndicator
 } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import {Context as TopicContext} from '../context/TopicContext'
@@ -19,11 +20,12 @@ const MySaved = ({navigation}) => {
 const {showSavedTopic, state} = useContext(TopicContext);
 
 
-
 useEffect(() => {
     const showSaved = navigation.addListener('focus', () => showSavedTopic());
     return showSaved;
 },[navigation])
+
+
 
 
     return (

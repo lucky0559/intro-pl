@@ -7,16 +7,24 @@ TouchableOpacity
 } from 'react-native';
 import { Text } from 'react-native-elements';
 import {Context as TopicContext} from '../context/TopicContext'
+import { useNavigation } from '@react-navigation/core';
 
 
 const Topic = ({route}) => {
 
-    const {addTopic, removeTopic} = useContext(TopicContext);
+const navigation = useNavigation();
 
-const {_id, title, image_url, info} = route.params;
+const {addTopic} = useContext(TopicContext);
+
+
+
+
+const {title, image_url, info} = route.params;
+
+
 const save = async() => {
     await addTopic({title, image_url, info});
-    
+    navigation.navigate('Home')
     console.log("Saved!");
 }
 

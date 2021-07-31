@@ -1,4 +1,4 @@
-import React, {useEffect, useContext} from 'react';
+import React, {useEffect, useContext, useState} from 'react';
 import {
 View,
 StyleSheet,
@@ -12,8 +12,6 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 import { Context as AuthContext } from '../context/AuthContext';
 
 
-const {width, height} = Dimensions.get('screen');
-
 const Welcome = ({navigation}) => {
 
     const {localSignIn} = useContext(AuthContext);
@@ -21,6 +19,7 @@ const Welcome = ({navigation}) => {
 useEffect(() => {
     localSignIn();
 },[])
+
 
     return (
         <SafeAreaView style={styles.mainContainer}>

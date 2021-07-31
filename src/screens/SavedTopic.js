@@ -7,16 +7,19 @@ TouchableOpacity
 } from 'react-native';
 import { Text } from 'react-native-elements';
 import {Context as TopicContext} from '../context/TopicContext'
+import { useNavigation } from '@react-navigation/core';
 
 const SavedTopic = ({route}) => {
 
-    const {removeTopic} = useContext(TopicContext);
+const navigation = useNavigation();
+
+const {removeTopic} = useContext(TopicContext);
 
 const {_id, title, image_url, info} = route.params;
 
 const remove = async() => {
     await removeTopic({_id});
-
+    navigation.navigate('MySaved')
     console.log("Deleted");
 }
 

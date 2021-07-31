@@ -12,6 +12,8 @@ Input
 import { SafeAreaView } from 'react-native-safe-area-context';
 import Spacer from '../components/Spacer';
 import { Context as AuthContext } from '../context/AuthContext';
+import Loading from '../components/Loading';
+import { set } from 'lodash';
 
 const SignIn = () => {
 
@@ -22,23 +24,30 @@ const SignIn = () => {
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
+    const [loading, setLoading] = useState(false);
+
     const checker = async () => {
+
+        setLoading(true);
 
         clearErrorMessage();
 
 
         if(email.length != 0 && password.length != 0) {
             if(!email.includes('@')) {
+                setLoading(false);
                 return ToastAndroid.show(
                     'Provide valid email with @',
                     ToastAndroid.SHORT
                 );
             }
-
             await signIn({email, password});
+            setLoading(false);
+            
         }
 
         else {
+            setLoading(false);
             ToastAndroid.show(
                 'Empty Field',
                 ToastAndroid.SHORT
@@ -47,6 +56,7 @@ const SignIn = () => {
     }
 
     return (
+        <>
         <SafeAreaView style={styles.mainContainer}>
             <Spacer>
                 <Text h3>
@@ -90,6 +100,8 @@ const SignIn = () => {
         }
             
         </SafeAreaView>
+        {loading ? <Loading/> : null}
+        </>
     );
 }
 

@@ -16,7 +16,7 @@ const addTopic = dispatch => async({title, image_url, info}) => {
         await api.post('/topic', {title, image_url, info});
     }
     catch(err) {
-        console.log(err.message);
+        console.log('Existing Topic');
     }
 }
 
@@ -36,6 +36,9 @@ const showSavedTopic = dispatch => async() => {
         payload: response.data
     })
 }
+
+
+
 
 export const { Provider, Context } = createDataContext(
     topicReducer,
